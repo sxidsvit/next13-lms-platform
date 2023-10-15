@@ -2,7 +2,7 @@
 
 ### Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL 
 
-## [site](https://next13-lms-platform.vercel.app/)
+## [site](https://next13-lms-sxidsvit.vercel.app/)
 
 ### Setup .env file
 
