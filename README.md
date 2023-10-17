@@ -56,4 +56,4 @@ Running commands with npm `npm run [command]`
 
 ---
 
-#### Thank you very much [Code with Antonio](https://www.youtube.com/@codewithantonio) for teaching me 
+#### I can't express how much I have learned from [you](https://www.youtube.com/@codewithantonio) ! <br> Thanks for the hard and smart work.
